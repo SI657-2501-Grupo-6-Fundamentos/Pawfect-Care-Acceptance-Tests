@@ -1,4 +1,4 @@
-Feature: Gestión de Perfiles de Mascotas
+Feature: US08: Gestión de Perfiles de Mascotas
   Como dueño de mascota,
   Quiero gestionar y poder eliminar los perfiles de mis mascotas
   Para asegurarme de que la información esté correctamente registrada y actualizada

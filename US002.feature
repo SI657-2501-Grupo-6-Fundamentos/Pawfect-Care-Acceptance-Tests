@@ -11,11 +11,11 @@ Feature: US02: Autenticación de Usuarios
     Entonces el sistema debe autenticar al usuario
     Y redirigirlo al panel principal de la aplicación
 
-    Examples:
-      | correo                | contraseña   |
-      | usuario1@example.com  | Pass1234!    |
-      | maria.perez@mail.com  | MiClave2024  |
-      | juan.lopez@test.com   | Contra@456   |
+  Examples:
+    | correo                | contraseña   |
+    | usuario1@example.com  | Pass1234!    |
+    | maria.perez@mail.com  | MiClave2024  |
+    | juan.lopez@test.com   | Contra@456   |
 
 
   Escenario: Credenciales inválidas

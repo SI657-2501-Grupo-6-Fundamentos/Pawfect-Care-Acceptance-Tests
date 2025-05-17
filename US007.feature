@@ -1,4 +1,4 @@
-Feature: Búsqueda de Mascotas por el nombre del dueño y de la mascota
+Feature: US07: Búsqueda de Mascotas por el nombre del dueño y de la mascota
   Como médico veterinario,
   Quiero buscar mascotas por el nombre del dueño y de la mascota
   Para acceder rápidamente a su información en el sistema

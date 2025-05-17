@@ -1,4 +1,4 @@
-Feature: Búsqueda de dueño de mascota
+Feature: US13: Búsqueda de dueño de mascota
   Como médico veterinario,
   Deseo poder buscar citas de clientes agendados por su nombre y DNI para poder ubicarlos rápidamente
 

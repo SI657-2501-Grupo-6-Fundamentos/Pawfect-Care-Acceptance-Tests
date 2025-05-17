@@ -1,4 +1,4 @@
-Feature: Creación de Perfil de Mascota
+Feature: US04: Creación de Perfil de Mascota
   Como usuario,
   Quiero crear un perfil de mi mascota
   Para tener su información almacenada en la plataforma

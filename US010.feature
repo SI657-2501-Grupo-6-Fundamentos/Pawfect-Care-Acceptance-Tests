@@ -1,4 +1,4 @@
-Feature: Cancelación de Citas
+Feature: US10: Cancelación de Citas
   Como dueño de mascota,
   Quiero cancelar citas agendadas en caso de que no pueda asistir
 
@@ -8,7 +8,7 @@ Feature: Cancelación de Citas
   Entonces la cita con ID "<cita_id>" será eliminada y se enviará una notificación de cancelación al dueño "<dueño>"
   
   Examples:
-    | dueño        | cita_id | mascota   | mensaje |
-    | Juan Pérez   | 1001    | Rocky     | Cita cancelada con éxito |
-    | María López  | 1023    | Canela    | Cita cancelada con éxito |
-    | Carlos Díaz  | 1105    | Luna      | Cita cancelada con éxito |
+    | dueño        | cita_id | mascota   | Eliminación confirmada  |  mensaje                   |
+    | Juan Pérez   | 1001    | Rocky     | Sí                      |  Cita cancelada con éxito  |
+    | María López  | 1023    | Canela    | No                      |  Cita cancelada con éxito  |
+    | Carlos Díaz  | 1105    | Luna      | Sí                      |  Cita cancelada con éxito  |

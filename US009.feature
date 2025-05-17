@@ -1,4 +1,4 @@
-Feature: Agendamiento de Citas
+Feature: US09: Agendamiento de Citas
   Como dueño,
   Quiero agendar citas para que mi mascota reciba atención veterinaria a tiempo
 

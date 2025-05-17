@@ -1,4 +1,4 @@
-Feature: Gestión de Cuentas de Usuarios
+Feature: US03: Gestión de Cuentas de Usuarios
   Como usuario registrado,
   Quiero poder iniciar sesión ingresando mi correo electrónico y contraseña
   Para poder utilizar los servicios de la aplicación

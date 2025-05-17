@@ -1,4 +1,4 @@
-Feature: Edición de Citas Veterinarias
+Feature: US12: Edición de Citas Veterinarias
   Como médico veterinario,
   Deseo editar las citas para hacer cambios en la fecha o estado cuando sea necesario
 

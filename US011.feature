@@ -1,4 +1,4 @@
-Feature: Búsqueda de Citas por fecha
+Feature: US11: Búsqueda de Citas por fecha
   Como dueño de mascota o médico veterinario,
   Deseo poder buscar citas por fecha para acceder rápidamente a la información de la cita
 
